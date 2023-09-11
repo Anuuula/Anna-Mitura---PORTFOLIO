@@ -1,12 +1,14 @@
 # Anna-Mitura---PORTFOLIO
-#<h2> TASK 1#  
+<h2> TASK 1  
   <h3></h3>
   
 **SUBTASK 1** 
 
-8/10 PUNKTÓW  (prawie idealnie) :) 
+__8/10 PUNKTÓW  (prawie idealnie) :)__
 
 **SUBTASK 3**
+
+
 
 
 **SUBTASK 4**
