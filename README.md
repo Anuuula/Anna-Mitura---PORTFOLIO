@@ -2,16 +2,16 @@ Anna-Mitura---PORTFOLIO
 <h2> TASK 1  
   <h3></h3>
   
-**SUBTASK 1** 
+***SUBTASK 1*** 
 
 __8/10 PUNKTÓW  (prawie idealnie) :)__
 
-**SUBTASK 3**
+***SUBTASK 3***
 
 
 
 
-**SUBTASK 4**
+***SUBTASK 4***
 
 Aplikacja "SCOUTS" jest przeznaczona dla tzw. "łowców talentów", którzy poszukują zdolnych piłkarzy. Aplikacja dostarcza informacji o graczach i ich ilości, rozegranych meczach i raportach. Rjestruje także aktywność na stronie tzn. czy został dodany nowy gracz c
 lub stworzony raport.
