@@ -1,6 +1,6 @@
 # Anna-Mitura---PORTFOLIO
-TASK 1  <h2>
-SUBTASK 1   
+<h2> TASK 1  
+<h4></h4>SUBTASK 1   
 8/10 PUNKTÓW  (prawie idealnie) :) 
 SUBTASK 3
 
