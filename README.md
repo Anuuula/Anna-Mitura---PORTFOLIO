@@ -4,7 +4,7 @@ Anna-Mitura---PORTFOLIO
   
 ***SUBTASK 1*** 
 
-__8/10 PUNKTÓW  (prawie idealnie) :)__
+8/10 PUNKTÓW  (prawie idealnie) :)
 
 ***SUBTASK 3***
 
