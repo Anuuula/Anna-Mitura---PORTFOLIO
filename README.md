@@ -19,4 +19,4 @@ Cześć jestem Ania :) już od dłuższego czasu myślę o przebranżowieniu si�
 
 <asterisk> Aplikacja jest intuicyjna tzn. łatwo jest się po niej "poruszać". Szkoda tylko, że nie ma możliwości realnego kliknięcia w ilość przeprowadzonych akcji czy sporządzonych raportów. 
 <asterisk> Uboga grafika mało przyciągająca wzrok. 
-<asterisk> Dodanie graczy nie sprawia trudności.
+<asterisk> Dodanie i wyszukiwanie graczy nie sprawia trudności. Za wadę uznałabym, że oprócz samych wyszukanych graczy poniżej znajdują się Ci nie wyszukiwani. 
