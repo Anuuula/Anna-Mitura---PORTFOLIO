@@ -17,6 +17,8 @@ Cześć jestem Ania :) już od dłuższego czasu myślę o przebranżowieniu si�
 
 - Aplikacja "SCOUTS" jest przeznaczona dla tzw. "łowców talentów", którzy poszukują zdolnych piłkarzy. Aplikacja dostarcza informacji o graczach i ich ilości, rozegranych meczach i raportach. Rejestruje także aktywność na stronie tzn. czy został dodany nowy gracz lub stworzony raport.
 
+- W AKTYWNOŚCIACH po zaaktualizowaniu meczu, nie zmienia się ogólna ilość rozegranych meczów (na górze).
+
 - Aplikacja jest intuicyjna tzn. łatwo jest się po niej "poruszać". Szkoda tylko, że nie ma możliwości realnego kliknięcia w ilość przeprowadzonych akcji czy sporządzonych raportów. 
 - Uboga grafika mało przyciągająca wzrok. 
-- Dodanie i wyszukiwanie graczy nie sprawia trudności. Za wadę uznałabym, że oprócz samych wyszukanych graczy poniżej znajdują się Ci nie wyszukiwani. 
+- Dodanie i wyszukiwanie graczy nie sprawia trudności. Za wadę uznałabym, że oprócz samych wyszukanych graczy n górze (lista nie ułożona alfabetycznie) poniżej znajdują się Ci nie wyszukiwani. 
