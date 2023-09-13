@@ -7,7 +7,7 @@ Anna-Mitura---PORTFOLIO
 __8/10 PUNKTÓW  (prawie idealnie) :)__
 
 ***SUBTASK 3***
-Cześć jestem Ania :) już od dłuższego czasu myślę o przebranżowieniu się. Mój narzeczony pracuje w branży testerskiej i to dzięki Niemu odważyłam się spróbować. Posiadam już podstawę teoretyczną ale bardzo bym chciała zdobyć dośdwidczenie w praktyce i dlatego uznałam CHALLENGE za idealny. Już się nie mogę doczekać kolejnego wyzwania. Po za tym psucie wszystkiego to umiejętność, która mi najlepiej wychodzi :laughing: or :satisfied:
+Cześć jestem Ania :) już od dłuższego czasu myślę o przebranżowieniu się. Mój narzeczony pracuje w branży testerskiej i to dzięki Niemu odważyłam się spróbować. Posiadam już podstawę teoretyczną ale bardzo bym chciała zdobyć dośdwidczenie w praktyce i dlatego uznałam CHALLENGE za idealny. Już się nie mogę doczekać kolejnego wyzwania. Po za tym psucie wszystkiego to umiejętność, która mi najlepiej wychodzi :laughing: 
 
 
 
